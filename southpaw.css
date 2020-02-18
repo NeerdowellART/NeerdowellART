@@ -1,0 +1,31 @@
+
+Body 
+{
+font-family: sans-serif;
+background-color: black;
+color: silver;
+}
+
+.centered 
+{
+text-align: center;
+}
+
+#largecompanyname 
+{
+font-family: optima;
+font-size: 300%;
+}
+
+.listheadingqualities
+{
+font-size: 150%;
+text-decoration: underline;
+}
+
+.contactfontqualities
+{
+text-align: center;
+font-size: 150%;
+}
+
